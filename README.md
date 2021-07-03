@@ -9,7 +9,7 @@ The aim of this project is to create hospital bookings; such that the following 
 4. Existing appointments can be deleted.
 
 ## Technologies Used
-* Python Version
+* Python Version 3.9.5
 * Django Rest Framework
 * Mysql Server
 * Postman
